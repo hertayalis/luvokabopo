@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://luvokabopo.pages.dev/sitemap.xml
